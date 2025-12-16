@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jasmine Chen
 - 👀 I’m passionate about exploring the intersection of my disciplines and utilizing my diverse interests to contribute to a comprehensive understanding of human behavior.
-- 🌱 I’m currently learning python, R, and SQL.
+- 🌱 I have intermediate proficiency in Python, SQL, and R.
 - 💞️ I’m looking to collaborate on any projects relating to psychology, music, data science, and software development.
 - 📫 How to reach me: jasxchen@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love NYT connections. 
+- ⚡ Fun fact: I love playing sudoku and I have a 340+-day streak in Duolingo. 
